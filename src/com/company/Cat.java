@@ -1,5 +1,5 @@
 package com.company;
-
+//
 class Cat extends Animal {
 
     protected boolean swim;
